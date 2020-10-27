@@ -6,7 +6,7 @@ The objective is to implement an application that can calculate the score of a s
 
 A bowling game consists of 10 frames as shown below. In each frame the player has two opportunities to knock down 10 pins. The score for the frame is the total number of pins knocked down, plus bonuses for strikes and spares.
 
-![ExampleImage]()
+![ExampleImage](https://github.com/ginaBai/UnitTestingStudy/blob/main/files/BowlingScoreKeeperExample.png)
 
 A spare is when the player knocks down all 10 pins in two throws. The bonus for that frame is the number of pins knocked down by the next throw. So in frame 3 of the example game below, the score is 10 (the total number knocked down) plus a bonus of 5 (the number of pins knocked down on the next throw).
 
